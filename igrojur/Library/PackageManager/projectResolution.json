@@ -1,18 +1,18 @@
 {
   "context": {
-    "projectPath": "D:/prog/opd/lab3/igrojur/igrojur/Packages",
+    "projectPath": "C:/Users/1/Documents/igrojur/igrojur/Packages",
     "unityVersion": "6000.1.3f1"
   },
   "inputs": [
-    "D:\\prog\\opd\\lab3\\igrojur\\igrojur\\Packages\\manifest.json",
-    "D:\\prog\\opd\\lab3\\igrojur\\igrojur\\Packages\\packages-lock.json",
+    "C:\\Users\\1\\Documents\\igrojur\\igrojur\\Packages\\manifest.json",
+    "C:\\Users\\1\\Documents\\igrojur\\igrojur\\Packages\\packages-lock.json",
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.1.3f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "D:\\prog\\opd\\lab3\\igrojur\\igrojur\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
+      "resolvedPath": "C:\\Users\\1\\Documents\\igrojur\\igrojur\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
       "fingerprint": "f3fb577b3546594b97b8cc34307cd621f60f1c73",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
